@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Desafios matemáticos em Java/Desafio 1 - Visita na Feira" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Praticando Programação em JAVA/Desafio 1 - Abreviando posts do Blog" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Praticando Programação em JAVA/Desafio 2 - Conjunto Bons ou Ruins" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Praticando Programação em JAVA/Desafio 3 - Encontre uma substring maior" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Praticando Programação em JAVA/Desafio 4 - Entrevista Embaraçosa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Praticando Programação em JAVA/Desafio 5 - Validador Senhas" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
