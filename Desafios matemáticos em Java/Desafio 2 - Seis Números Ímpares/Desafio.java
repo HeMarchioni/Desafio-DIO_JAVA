@@ -1,7 +1,7 @@
 /*
 Desafios matemáticos em Java
 
-exercicio 2 -  Análise de Números
+exercicio 2 -  Seis Números Ímpares
 
 realizado por Henrique Marchioni 17/06/2021
 
@@ -25,5 +25,4 @@ public class Desafio {
             x++;
         }
     }
-
 }
