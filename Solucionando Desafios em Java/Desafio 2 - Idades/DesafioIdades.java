@@ -10,7 +10,7 @@ Realizado por Henrique Marchioni 18/06/2021
 import java.io.IOException;
 import java.util.Scanner;
 
-public class  DesafioIdades {
+public class DesafioIdades {
 
     public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
