@@ -15,4 +15,4 @@ No caso do salário, também deve haver um espaço em branco após o $.
 
 | Exemplo de Entrada | Exemplo de Saída|
 | ---|--- |
-| -5<br>0 <br>-3<br> -4<br> 12| 3 valor(es) par(es)<br>2 valor(es) impar(es) <br>1 valor(es) positivo(s)<br> 3 valor(es) negativo(s)|
+| 25<br>100 <br> 5.50<br>|NUMBER = 25<br>SALARY = U$ 550.00 <br>|
