@@ -1,18 +1,18 @@
 # Desafio-DIO - Solucionando Desafios em Java
 
 
-<h1>Desafio - 1 Diferença</h1>
-Leia quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença
-do produto de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).
+<h1>Desafio - 1 Área do Círculo</h1>
+A fórmula para calcular a área de uma circunferência é: area = π . raio2. Considerando para este problema que π = 3.14159:
+
+- Efetue o cálculo da área, elevando o valor de raio ao quadrado e multiplicando por π.
 <h2>Entrada</h2>
-O arquivo de entrada contém 4 valores inteiros.
+A entrada contém um valor de ponto flutuante (dupla precisão), no caso, a variável raio.
 <h2>Saída</h2>
-Imprima a mensagem DIFERENCA com todas as letras maiúsculas, conforme exemplo abaixo, com um espaço em branco antes e depois da igualdade.
+Apresentar a mensagem "A=" seguido pelo valor da variável area, conforme exemplo abaixo, com 4 casas após o ponto decimal. Utilize variáveis de dupla precisão (double). Como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
 
 
 
 | Exemplo de Entrada | Exemplo de Saída|
 | ---|--- |
-|  5 <br> 6 <br> 7 <br> 8 | DIFERENCA = -26 |
-|  0 <br> 0 <br> 7 <br> 8 | DIFERENCA = -56 |
-|  5 <br> 6 <br> -7 <br> 8 | DIFERENCA = 86 |
+|  2.00 <br> | A=12.5664 |
+| 100.64<br>  | A=31819.3103 |
