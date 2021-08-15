@@ -1,18 +1,13 @@
 # Desafio-DIO - Desafios  numéricos em Java
 
 
-<h1>Desafio - 2 Folha de Pagamento</h1>
-Precisamos saber quanto uma determinada empresa deve pagar para seus colaboradores, porém temos apenas a quantidade de horas trabalhadas
-e o valor hora. Escreva um programa que leia o número de um colaborador, seu número de horas trabalhadas, 
-o valor que recebe por hora e calcula o salário desse colaborador. Em seguida, apresente o número e o salário do colaborador,
-com duas casas decimais.
+<h1>Desafio - 3 Contagem de Cédulas</h1>
+Faça a leitura de um valor inteiro. Em seguida, calcule o menor número de notas possíveis (cédulas) onde o valor pode ser decomposto. As notas que você deve considerar são de 100, 50, 20, 10, 5, 2 e 1. Na sequência mostre o valor lido e a relação de notas necessárias.
 <h2>Entrada</h2>
-Você receverá 2 números inteiros e 1 número com duas casas decimais, representando o número, 
-quantidade de horas trabalhadas e o valor que o funcionário recebe por hora trabalhada.
+Você receberá um valor inteiro N (0 < N < 1000000).
 <h2>Saída</h2>
-Exiba o número e o salário do colaborador, conforme exemplo abaixo, com um espaço em branco antes e depois da igualdade.
-No caso do salário, também deve haver um espaço em branco após o $.
+Exiba o valor lido e a quantidade mínima de notas de cada tipo necessárias, seguindo o exemplo de saída abaixo. Após cada linha deve ser imprimido o fim de linha.
 
 | Exemplo de Entrada | Exemplo de Saída|
 | ---|--- |
-| 25<br>100 <br> 5.50<br>|NUMBER = 25<br>SALARY = U$ 550.00 <br>|
+| 576 |576<br>5 nota(s) de R$ 100,00 <br>1 nota(s) de R$ 50,00<br>1 nota(s) de R$ 20,00<br>0 nota(s) de R$ 10,00<br>1 nota(s) de R$ 5,00<br>0 nota(s) de R$ 2,00<br>1 nota(s) de R$ 1,00|
