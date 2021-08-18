@@ -1,20 +1,16 @@
 # Desafio-DIO - Solucionando Desafios em Java
 
 
-<h1>Desafio - 4  Combinação de strings</h1>
-Crie um algoritmo que receba dois inputs que sejam strings e combine-as alternando as letras de cada string. 
-
-Deve começar pela primeira letra da primeira string, seguido pela primeira letra da segunda string, em seguida pela segunda letra da primeira string e continuar dessa forma sucessivamente.
-
-As letras restantes da cadeia mais longa devem ser adicionadas ao fim da string resultante e retornada.
+<h1>Desafio - 5  Encaixa ou Não?</h1>
+Paulinho tem em suas mãos um novo problema. Agora a sua professora lhe pediu que construísse um programa para verificar, à partir de dois valores muito grandes A e B, se B corresponde aos últimos dígitos de A.
 
 <h2>Entrada</h2>
-A entrada contém vários casos de teste. A primeira linha contém um inteiro N que indica a quantidade de casos de teste que vem a seguir. Cada caso de teste é composto por uma linha que contém duas cadeias de caracteres, cada cadeia de caracteres contém entre 1 e 50 caracteres inclusive.
+A entrada consiste de vários casos de teste. A primeira linha de entrada contém um inteiro N que indica a quantidade de casos de teste. Cada caso de teste consiste de dois valores A e B maiores que zero, cada um deles podendo ter até 1000 dígitos.
 
 <h2>Saída</h2>
-Combine as duas cadeias de caracteres da entrada como mostrado no exemplo abaixo e exiba a cadeia resultante.
+Para cada caso de entrada imprima uma mensagem indicando se o segundo valor encaixa no primeiro valor, confome exemplo abaixo.
 
 | Exemplo de Entrada | Exemplo de Saída|
 | ---|--- |
-|  2 <br> aA Bb <br> aa bb | aBAb<br> abab<br>|
+|  4 <br> 56234523485723854755454545478690 78690 <br>5434554 543<br> 1243 1243 <br> 54 64545454545454545454545454545454554 | encaixa <br>nao encaixa <br>encaixa <br> nao encaixa|
 
