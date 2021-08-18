@@ -4,7 +4,7 @@ import java.util.*;
 /*
 Solucionando Desafios em Java
 
-Exercicio 4 - Combinação de strings
+Exercício 4 - Combinação de strings
 
 Realizado por Henrique Marchioni 18/08/2021
 
